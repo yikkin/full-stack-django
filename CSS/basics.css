@@ -1,0 +1,71 @@
+/*h1{
+color : purple;
+}
+
+li{
+color : #6699ff;
+}
+
+h4{
+color : rgba(255 , 97 , 0 , 0); /*the 0 make the text fully transparent*/
+/*}*/
+
+/*body{
+background : url(https://moneyinc.com/wp-content/uploads/2018/06/Lamborghini.jpg);
+background-repeat : repeat;
+}*/
+
+/*div{
+background :#6699ff;
+border-color : blue;
+border-width : 4px;
+border-style : dotted;
+ }
+
+ p{
+ color : yellow;
+ }
+
+ /*span{
+ background: red;
+ color : black;
+ }*/
+
+.firstDiv{
+ color : blue;
+ }
+
+.secondDiv{
+ color : red;
+ }
+
+ #singledout{
+ color : green;
+ text-decoration: line-through;
+ }
+
+ *{
+ color : black;
+ }
+
+ li a{
+ color : red;
+ }
+ li a[href="www.lemonde.fr"]{
+ color :blue;
+ border : 5px solid orange}
+
+ li{
+ color : red;
+ }
+
+ .topitems{
+ color : blue;
+ }
+
+ #two{
+ border : 3px solid black;
+ }
+
+
+

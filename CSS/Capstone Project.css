@@ -1,0 +1,51 @@
+
+h1{
+color : white;
+text-align : center;
+font-family: 'Special Elite', cursive;
+}
+
+h2{
+color : white;
+text-align : center;
+font-family: 'Special Elite', cursive;
+}
+
+p{
+color : white;
+text-align : center;
+font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+.art{
+margin : auto;}
+td{
+background-color : black;
+height : 700px;
+width : 1000px;
+border : black;
+}
+
+
+
+label{
+display: block;
+text-align: center;
+margin : auto;
+color : white;
+}
+
+input{
+color : black;
+display: block;
+margin-right : auto;
+margin-left : auto;
+text-align: center;
+border-height : 5px;
+border-width : 5px;
+border : black;
+}
+
+body{background-color : #264653}
+

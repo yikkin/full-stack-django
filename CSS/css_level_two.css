@@ -1,0 +1,70 @@
+h1{
+font-family : "Lucida console";
+}
+
+/*p{
+font-family : monospace;
+}*/
+
+/*body{
+font-size : 20px;
+}*/
+
+/*body{
+font-size : 20px;
+}
+
+#two{
+font-size : 1.0em;
+}
+
+p{
+font-style : italic;
+font-weight : bold;
+ }
+
+ h1{
+ text-align : center ;
+ }*/
+
+/* p{
+font-family: 'Dancing Script', cursive;
+ }*/
+
+/*#top{
+border : 4px solid blue;
+width : 25%;
+text-align : center;*/
+/*top right bottom left*/
+/*margin : 10px 20px 100px 40px;*/
+/*margin : auto;
+}
+
+#bottom{
+border : 4px solid red;
+width : 35%;
+padding : 200px;
+text-align : center;
+}*/
+
+h2{
+font-family: 'Permanent Marker', cursive;
+text-align : center;
+margin : auto;
+}
+
+.art{
+margin : auto;}
+td{
+background-color : black;
+height : 200px;
+width : 100px;
+border : 6px solid white;
+}
+
+#one{background-color : #264653}
+#two{background-color : #2A9D8F}
+#three{background-color : #E9C46A}
+#four{background-color : #F4A261}
+#five{background-color : #E76F51}
+
